@@ -54,7 +54,7 @@ Certifique-se de incluir a expiração no token JWT para maior segurança.
 <li>O código deve ser organizado e documentado.</li>
 <li>Use controle de versão (por exemplo, Git) e forneça um repositório no GitHub com instruções claras sobre como configurar e executar o aplicativo.</li>
 <li>Garanta a segurança da autenticação com JWT.</li>
-<li>A interface do usuário devera ser funcional.</li>
+<li>A interface do usuário deverá ser funcional.</li>
 
 
 #
